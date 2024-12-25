@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 bbbbbbbbbbbbbbbbbbccccccccccddddddddddddddddddd
@@ -7,3 +8,6 @@ bbbbbbbbbbbbbbbbbbcccccccccceeeeeeedddddddddddddddddddcccccccccccccddddddddddd
 =======
 akakakakaaakbbbvbvvvvbvb
 >>>>>>> Stashed changes
+=======
+bbbbbbbbbbbbbbbbbb
+>>>>>>> 0aaf7d6 (new commit)
