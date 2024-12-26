@@ -1,13 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 bbbbbbbbbbbbbbbbbbccccccccccddddddddddddddddddd
 =======
 bbbbbbbbbbbbbbbbbbcccccccccceeeeeeedddddddddddddddddddcccccccccccccddddddddddd
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 akakakakaaakbbbvbvvvvbvb
 >>>>>>> Stashed changes
 =======
 bbbbbbbbbbbbbbbbbb
 >>>>>>> 0aaf7d6 (new commit)
+=======
+>>>>>>> parent of 3817181 (2)
