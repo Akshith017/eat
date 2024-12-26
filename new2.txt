@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 cccccccccccccccccbbbbbbbddddddddddddddddddddd
 =======
 cccccccccccccccccbbbbbbbvvvvvvvvvvvvvvvvvvvvvvvvvvv
 >>>>>>> Stashed changes
-=======
-ccccccccccccccccc
->>>>>>> 0aaf7d6 (new commit)
